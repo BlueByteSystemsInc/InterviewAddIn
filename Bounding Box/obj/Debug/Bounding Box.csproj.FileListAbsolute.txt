@@ -1,0 +1,14 @@
+C:\SW Addins\Bounding Box\Bounding Box\Bounding Box\bin\Debug\Bounding Box.dll
+C:\SW Addins\Bounding Box\Bounding Box\Bounding Box\bin\Debug\Bounding Box.pdb
+C:\SW Addins\Bounding Box\Bounding Box\Bounding Box\obj\Debug\Bounding Box.csproj.AssemblyReference.cache
+C:\SW Addins\Bounding Box\Bounding Box\Bounding Box\obj\Debug\Bounding Box.csproj.CoreCompileInputs.cache
+C:\SW Addins\Bounding Box\Bounding Box\Bounding Box\obj\Debug\Bounding Box.dll
+C:\SW Addins\Bounding Box\Bounding Box\Bounding Box\obj\Debug\Bounding Box.pdb
+C:\SW Addins\Bounding Box\Bounding Box\Bounding Box\bin\Debug\Bounding Box.tlb
+C:\Users\dinesh\Documents\New folder\InterviewAddIn\Bounding Box\obj\Debug\Bounding Box.csproj.AssemblyReference.cache
+C:\Users\dinesh\Documents\New folder\InterviewAddIn\Bounding Box\obj\Debug\Bounding Box.csproj.CoreCompileInputs.cache
+C:\Users\dinesh\Documents\New folder\InterviewAddIn\Bounding Box\obj\Debug\Bounding Box.dll
+C:\Users\dinesh\Documents\New folder\InterviewAddIn\Bounding Box\obj\Debug\Bounding Box.pdb
+C:\Users\dinesh\Documents\New folder\InterviewAddIn\Bounding Box\bin\Debug\Bounding Box.dll
+C:\Users\dinesh\Documents\New folder\InterviewAddIn\Bounding Box\bin\Debug\Bounding Box.pdb
+C:\Users\dinesh\Documents\New folder\InterviewAddIn\Bounding Box\bin\Debug\Bounding Box.tlb
